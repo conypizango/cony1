@@ -1,0 +1,84 @@
+ body{
+   background-image: url("fl.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: #ffffff;
+    
+ }
+
+ .anto{
+   width: 100%;
+   display: grid;
+   place-content: center;
+   grid-template-columns: repeat(3, 300px );
+   grid-template-rows: 300px ;
+   gap: 30px;
+   
+   }
+
+
+
+ .aracela{
+   border:  10px solid red;
+    border-radius: 5px ;
+     background-color: rgba(220, 20, 60, 0.61);
+     width: 280px;
+     height: 280px;
+     
+ }
+
+ .aracele{
+   border:10px solid  orange;
+   border-radius: 5px;
+     background-color: rgba(255, 181, 45, 0.589);
+     width: 280px;
+     height: 280px;
+   
+
+
+}
+
+
+.araceli{
+   border:10px solid yellow;
+   border-radius: 5px;
+     background-color: rgba(252, 255, 78, 0.589);
+     width: 280px;
+     height: 280px;
+
+}
+
+
+.aracel0{
+   border:10px solid lime;
+   border-radius: 5px;
+     background-color: rgba(70, 255, 70, 0.514);
+     width: 280px;
+     height: 280px;
+   
+
+}
+
+.aracelu{
+   border:10px solid purple;
+   border-radius: 5px;
+     background-color: rgba(216, 112, 147, 0.623);
+     width: 280px;
+     height: 280px;
+   
+}
+
+.aracely{
+   border:10px solid rgb(1, 191, 255);
+   border-radius: 5px;
+     background-color: rgba(112, 250, 255, 0.425);
+     width: 280px;
+     height: 280px;
+
+
+}
+
+
+
+ 
